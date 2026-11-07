@@ -1,0 +1,1 @@
+# Investigating-a-Forensic-Image-of-Windows-RAM-with-Redline-and-Volatility
